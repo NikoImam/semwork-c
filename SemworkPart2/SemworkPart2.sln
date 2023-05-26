@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammInterface", "ProgrammInterface\ProgrammInterface.csproj", "{2DBEE58D-DC83-4362-8B66-EA3A23DF5566}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphPartitorApp", "GraphPartitorApp\GraphPartitorApp.csproj", "{70D03DD0-B078-419E-B394-2A94D57926BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBEE58D-DC83-4362-8B66-EA3A23DF5566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBEE58D-DC83-4362-8B66-EA3A23DF5566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBEE58D-DC83-4362-8B66-EA3A23DF5566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBEE58D-DC83-4362-8B66-EA3A23DF5566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D03DD0-B078-419E-B394-2A94D57926BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D03DD0-B078-419E-B394-2A94D57926BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D03DD0-B078-419E-B394-2A94D57926BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D03DD0-B078-419E-B394-2A94D57926BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55A073E-09C7-47B3-B156-C6236E68D902}
+	EndGlobalSection
+EndGlobal
